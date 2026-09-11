@@ -1,0 +1,7 @@
+{
+  "name": "DevOps for Dummies",
+  "description": "A beginner-friendly single-page learning app for DevOps with ELI5 real-world analogies, step-by-step interactive playgrounds, jargon buster, and Python/Flask edition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
